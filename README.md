@@ -1,40 +1,52 @@
 ﻿# SSHPLUS MANAGER
 ```
-* UPDATE 28/04/2021 - PROYECTO FINALIZADO
+* UPDATE 28/04/2021 
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 ```
-SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
-                 ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-                 VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-                 y los usuarios ...
+SCRIPT SSHPLUS MANAGER is a script with a set of features and tools suitable for
+offer extreme ease of use on Linux servers with a focus on the use of VPN, has a 
+nice interface providing detailed information about the machine and users ...
 ```
-
+-----------------------------------
 **Manager Script**
 
-## :heavy_exclamation_mark: Requerimientos
+## :heavy_exclamation_mark: Requeriment 
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
-* Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64  / Ubuntu 18.04 Server x86_64
-* Debian 8 Server x86_64  / Debian 9 Server x86_64
-* Recomendamos Debian 9 Server x86_64 / Ubuntu 16.04 Server x86_64
-* Se recomienda usar una distro nueva o formatiada
-* Para instalar el segundo menu adaptado ejecute el comando ( menuV2 )
-* Para instalar el tercer menu adaptado formato ADM ejecute el comando ( menuV3 
-* Para instalar el cuarto menu adaptado formato ADM con utilitarios ejecute el comando ( menuV4 )
-* Para restablecer el menu original ejecute el comando ( menuV1 )
+ * A Linux-based operating system (Ubuntu or Debian)
+ * Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64 / Ubuntu 18.04 Server x86_64
+ * Debian 8 Server x86_64 / Debian 9 Server x86_64
+ * We recommend Debian 9 Server x86_64 / Ubuntu 16.04 Server x86_64
+ * It is recommended to use a new or formatted distro
+ * To install the second adapted menu run the command (menuV2)
+ * To install the third menu adapted ADM format, execute the command (menuV3
+ * To install the fourth ADM format adapted menu with utilities, execute the command (menuV4)
+ * To restore the original menu, execute the command (menuV1)
+
+--------------------------------------------
 
 ## :book: Installation
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
 
 ```
-SI NECESITAN REINSTALAR EL SCRIPTS PUEDEN EJECUTAR EL COMANDO: ( sshplus )
+IF THEY NEED TO REINSTALL THE SCRIPTS, YOU CAN EXECUTE THE COMMAND: (sshplus)
+
 ```
+-------------------------------
+
+## :book: English Translater
+
+cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/translate.sh && chmod +x translate.sh && bash translate.sh
+
+
+
+
+
 -------------------------------------------------------------------------------
 
-## :book: Installation Utilitarios
+## :book: Installation Utilities
 
 1. [SCRIPT OFICIAL PAINEL SSHPLUS WEB VERSAO: 20 (Installation Directa)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
 2. [PAINEL SSHPLUS WEB (VERSIONES)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
@@ -45,8 +57,7 @@ SI NECESITAN REINSTALAR EL SCRIPTS PUEDEN EJECUTAR EL COMANDO: ( sshplus )
 
 -------------------------------------------------------------------------------
 
-## :scroll: Registro de cambios
-
+## :scroll: Change Log
 **VERSION: 37**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/versao
@@ -57,11 +68,11 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/ma
 2. Team Illuminati - Contributor 
 
 ```
-* SIN MINERIA! 
-* SIN KEYS! 
-* VERSION GRATUITA 
-* SIN VIRUS TROJANO (BOTNET) 
-* ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+ * NO MINING!
+ * WITHOUT KEYS!
+ * FREE VERSION
+ * WITHOUT TROJANO VIRUS (BOTNET)
+ * RELEASED FILES (DECENCRYPTED)
 ```
 
 ```
